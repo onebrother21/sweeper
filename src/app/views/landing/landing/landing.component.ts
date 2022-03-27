@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class LandingComponent {
   title = "landing";
-  greeting = "Audioverse";
+  greeting = "Sweeper";
   oneliner = "Real sounds. Real people. Realtime.";
 }

@@ -7,12 +7,12 @@ export const environment = {
   prod:false,
   debug:true,
   firebaseConfig:{
-    apiKey: "AIzaSyDrVriUAjBONjx06y3NnGJc7tTyzN-5kUw",
-    authDomain: "sweeper.firebaseapp.com",
-    projectId: "sweeper",
-    storageBucket: "sweeper.appspot.com",
-    messagingSenderId: "1098794307295",
-    appId: "1:1098794307295:web:6bb0f39b1762f70193e36a"
+    apiKey: "AIzaSyDAo6zPgYxyWL3kAsvnCYqjxR1QmFbDP4w",
+    authDomain: "sweeper-d28b5.firebaseapp.com",
+    projectId: "sweeper-d28b5",
+    storageBucket: "sweeper-d28b5.appspot.com",
+    messagingSenderId: "298935179625",
+    appId: "1:298935179625:web:d90ec15a118fc492adc5f8"
   },
 };
 
