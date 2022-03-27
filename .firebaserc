@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sweeper": {
+      "hosting": {
+        "sweeper": [
+          "sweeper"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sweeper"
+  }
+}
